@@ -20,6 +20,8 @@ Create new posts (local only)
 Loading indicators and error handling
 
 Clean BLoC architecture implementation
+
+
 ![WhatsApp Image 2025-06-02 at 09 39 21](https://github.com/user-attachments/assets/b5bd447c-cf83-46d3-9800-66d8a02cff3f)
 ![WhatsApp Image 2025-06-02 at 09 39 20 (1)](https://github.com/user-attachments/assets/fdeeb2bd-c06e-4dc3-aad4-69e6f9745901)
 ![WhatsApp Image 2025-06-02 at 09 39 20](https://github.com/user-attachments/assets/956512b3-3d28-44f7-99c7-fa7b8ba3b56b)
@@ -27,6 +29,9 @@ Clean BLoC architecture implementation
 
 Architecture
 The app follows the BLoC pattern with this structure:
+
+
+
 lib/
 ├── main.dart
 ├── models/
@@ -52,6 +57,9 @@ lib/
     ├── user_card.dart
     ├── loading_widget.dart
     └── error_widget.dart
+
+
+    
 
 Key Components:
 Models: Data classes for API responses
