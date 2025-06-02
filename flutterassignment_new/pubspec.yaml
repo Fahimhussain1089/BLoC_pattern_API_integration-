@@ -1,0 +1,41 @@
+name: flutterassignment_new
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+#  equatable: ^2.0.5
+  cached_network_image: ^3.3.0
+  flutter_bloc: ^9.1.1
+  freezed_annotation: ^2.4.1
+  infinite_scroll_pagination: ^5.0.0
+  dartz: ^0.10.1
+  equatable: ^2.0.5
+  dio: ^5.4.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner: ^2.4.6
+  freezed: ^2.4.2
+  json_serializable: ^6.7.1
+
+
+
+
+flutter:
+  uses-material-design: true
+
+
