@@ -60,6 +60,18 @@ lib/
 ├── loading_widget.dart
 └── error_widget.dart
 
+
+
+### Key Components:
+
+1. **Models**: Data classes for API responses
+2. **Repository**: Handles API communication
+3. **BLoCs**: 
+   - `UserListBloc`: Manages user list, search, and pagination
+   - `UserDetailBloc`: Handles user details, posts, and todos
+4. **Screens**: Main UI components
+5. **Widgets**: Reusable UI elements
+
     
 
 Key Components:
